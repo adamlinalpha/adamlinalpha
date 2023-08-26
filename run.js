@@ -81,7 +81,7 @@ for(let i in pronouns){
   let randVerb=weightedRand(oV)
 //#endregion
 
-app.listen(3000,function(){
+app.listen(3000,3.75.158.163,function(){
     console.log('LISTENING ON 3000')
 })
 
