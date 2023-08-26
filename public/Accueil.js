@@ -43,7 +43,7 @@ let hello= function(){
   .then(response => response.json()).then(function (data) {
     temps.innerText = data.tense;
   }).then(function () {
-    fetch('http://localhost:3000/randomPronoun')
+    fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
       .then(response => response.json()).then(function (data) {
         if (temps.innerText == 'Imperatif') {
           let randVf = Math.random();
@@ -113,7 +113,7 @@ form.addEventListener('submit', function (evt) {
       .then(response => response.json()).then(function (data) {
         temps.innerText = data.tense;
       }).then(function () {
-        fetch('http://localhost:3000/randomPronoun')
+        fetch('https://entrainement-espagnol.onrender.com/randomPronoun')
           .then(response => response.json()).then(function (data) {
             if (temps.innerText == 'Imperatif') {
               let randVf = Math.random();
