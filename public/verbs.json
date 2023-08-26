@@ -1,0 +1,4856 @@
+[
+  {
+    "infinitive": "ser",
+    "count": 2700,
+    "perc": 0.04462441121,
+    "translation": "être"
+  },
+  {
+    "infinitive": "estar",
+    "count": 2700,
+    "perc": 0.04462441121,
+    "translation": "être"
+  },
+  {
+    "infinitive": "decir",
+    "count": 2734,
+    "perc": 0.04518634824,
+    "translation": "dire"
+  },
+  {
+    "infinitive": "tener",
+    "count": 1774,
+    "perc": 0.02931989092,
+    "translation": "avoir"
+  },
+  {
+    "infinitive": "hacer",
+    "count": 1757,
+    "perc": 0.0290389224,
+    "translation": "faire"
+  },
+  {
+    "infinitive": "ir",
+    "count": 1721,
+    "perc": 0.02844393025,
+    "translation": "aller"
+  },
+  {
+    "infinitive": "poder",
+    "count": 1614,
+    "perc": 0.02667548137,
+    "translation": "pouvoir"
+  },
+  {
+    "infinitive": "ver",
+    "count": 1336,
+    "perc": 0.02208081977,
+    "translation": "voir"
+  },
+  {
+    "infinitive": "dar",
+    "count": 1210,
+    "perc": 0.01999834724,
+    "translation": "donner"
+  },
+  {
+    "infinitive": "saber",
+    "count": 843,
+    "perc": 0.01393273283,
+    "translation": "savoir"
+  },
+  {
+    "infinitive": "pasar",
+    "count": 730,
+    "perc": 0.01206511859,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "parecer",
+    "count": 682,
+    "perc": 0.01127179572,
+    "translation": "ressembler à"
+  },
+  {
+    "infinitive": "pensar",
+    "count": 596,
+    "perc": 0.009850425585,
+    "translation": "penser"
+  },
+  {
+    "infinitive": "llegar",
+    "count": 587,
+    "perc": 0.009701677547,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "poner",
+    "count": 586,
+    "perc": 0.009685149988,
+    "translation": "mettre"
+  },
+  {
+    "infinitive": "hablar",
+    "count": 579,
+    "perc": 0.00956945707,
+    "translation": "parler"
+  },
+  {
+    "infinitive": "mirar",
+    "count": 569,
+    "perc": 0.009404181473,
+    "translation": "voir"
+  },
+  {
+    "infinitive": "llevar",
+    "count": 568,
+    "perc": 0.009387653913,
+    "translation": "transporter"
+  },
+  {
+    "infinitive": "dejar",
+    "count": 544,
+    "perc": 0.00899099248,
+    "translation": "quitter"
+  },
+  {
+    "infinitive": "querer",
+    "count": 515,
+    "perc": 0.008511693248,
+    "translation": "vouloir"
+  },
+  {
+    "infinitive": "quedar",
+    "count": 509,
+    "perc": 0.00841252789,
+    "translation": "être"
+  },
+  {
+    "infinitive": "volver",
+    "count": 486,
+    "perc": 0.008032394017,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "seguir",
+    "count": 465,
+    "perc": 0.007685315263,
+    "translation": "suivre"
+  },
+  {
+    "infinitive": "salir",
+    "count": 433,
+    "perc": 0.007156433353,
+    "translation": "sortir"
+  },
+  {
+    "infinitive": "sentir",
+    "count": 418,
+    "perc": 0.006908519957,
+    "translation": "sentir"
+  },
+  {
+    "infinitive": "empezar",
+    "count": 413,
+    "perc": 0.006825882158,
+    "translation": "commencer"
+  },
+  {
+    "infinitive": "deber",
+    "count": 393,
+    "perc": 0.006495330964,
+    "translation": "devoir"
+  },
+  {
+    "infinitive": "encontrar",
+    "count": 387,
+    "perc": 0.006396165606,
+    "translation": "trouver"
+  },
+  {
+    "infinitive": "esperar",
+    "count": 332,
+    "perc": 0.005487149822,
+    "translation": "attendre"
+  },
+  {
+    "infinitive": "venir",
+    "count": 314,
+    "perc": 0.005189653748,
+    "translation": "venir"
+  },
+  {
+    "infinitive": "contar",
+    "count": 307,
+    "perc": 0.00507396083,
+    "translation": "compter"
+  },
+  {
+    "infinitive": "tratar",
+    "count": 293,
+    "perc": 0.004842574994,
+    "translation": "essayer"
+  },
+  {
+    "infinitive": "buscar",
+    "count": 293,
+    "perc": 0.004842574994,
+    "translation": "recherche"
+  },
+  {
+    "infinitive": "creer",
+    "count": 292,
+    "perc": 0.004826047434,
+    "translation": "croire"
+  },
+  {
+    "infinitive": "perder",
+    "count": 279,
+    "perc": 0.004611189158,
+    "translation": "perdre"
+  },
+  {
+    "infinitive": "conocer",
+    "count": 270,
+    "perc": 0.004462441121,
+    "translation": "visiter"
+  },
+  {
+    "infinitive": "tomar",
+    "count": 268,
+    "perc": 0.004429386001,
+    "translation": "prendre"
+  },
+  {
+    "infinitive": "llamar",
+    "count": 264,
+    "perc": 0.004363275762,
+    "translation": "appeler"
+  },
+  {
+    "infinitive": "entrar",
+    "count": 253,
+    "perc": 0.004181472606,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "andar",
+    "count": 251,
+    "perc": 0.004148417486,
+    "translation": "marcher"
+  },
+  {
+    "infinitive": "preguntar",
+    "count": 245,
+    "perc": 0.004049252128,
+    "translation": "demander"
+  },
+  {
+    "infinitive": "sacar",
+    "count": 243,
+    "perc": 0.004016197009,
+    "translation": "retirer"
+  },
+  {
+    "infinitive": "abrir",
+    "count": 237,
+    "perc": 0.00391703165,
+    "translation": "ouvrir"
+  },
+  {
+    "infinitive": "acabar",
+    "count": 234,
+    "perc": 0.003867448971,
+    "translation": "finir"
+  },
+  {
+    "infinitive": "vivir",
+    "count": 233,
+    "perc": 0.003850921411,
+    "translation": "vivre"
+  },
+  {
+    "infinitive": "dormir",
+    "count": 228,
+    "perc": 0.003768283613,
+    "translation": "dormir"
+  },
+  {
+    "infinitive": "entender",
+    "count": 196,
+    "perc": 0.003239401702,
+    "translation": "comprendre"
+  },
+  {
+    "infinitive": "comprender",
+    "count": 194,
+    "perc": 0.003206346583,
+    "translation": "comprendre"
+  },
+  {
+    "infinitive": "crear",
+    "count": 193,
+    "perc": 0.003189819023,
+    "translation": "créer"
+  },
+  {
+    "infinitive": "ocurrir",
+    "count": 192,
+    "perc": 0.003173291464,
+    "translation": "se produire"
+  },
+  {
+    "infinitive": "comer",
+    "count": 192,
+    "perc": 0.003173291464,
+    "translation": "manger"
+  },
+  {
+    "infinitive": "caer",
+    "count": 189,
+    "perc": 0.003123708784,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "oir",
+    "count": 185,
+    "perc": 0.003057598546,
+    "translation": "entendre"
+  },
+  {
+    "infinitive": "recordar",
+    "count": 175,
+    "perc": 0.002892322949,
+    "translation": "se souvenir"
+  },
+  {
+    "infinitive": "subir",
+    "count": 174,
+    "perc": 0.002875795389,
+    "translation": "monter"
+  },
+  {
+    "infinitive": "morir",
+    "count": 171,
+    "perc": 0.00282621271,
+    "translation": "mourir"
+  },
+  {
+    "infinitive": "llorar",
+    "count": 165,
+    "perc": 0.002727047351,
+    "translation": "pleurer"
+  },
+  {
+    "infinitive": "alcanzar",
+    "count": 165,
+    "perc": 0.002727047351,
+    "translation": "atteindre"
+  },
+  {
+    "infinitive": "leer",
+    "count": 157,
+    "perc": 0.002594826874,
+    "translation": "lire"
+  },
+  {
+    "infinitive": "terminar",
+    "count": 156,
+    "perc": 0.002578299314,
+    "translation": "finir"
+  },
+  {
+    "infinitive": "gustar",
+    "count": 154,
+    "perc": 0.002545244195,
+    "translation": "gouter"
+  },
+  {
+    "infinitive": "conseguir",
+    "count": 153,
+    "perc": 0.002528716635,
+    "translation": "obtenir"
+  },
+  {
+    "infinitive": "tocar",
+    "count": 144,
+    "perc": 0.002379968598,
+    "translation": "toucher"
+  },
+  {
+    "infinitive": "explicar",
+    "count": 143,
+    "perc": 0.002363441038,
+    "translation": "expliquer"
+  },
+  {
+    "infinitive": "escuchar",
+    "count": 143,
+    "perc": 0.002363441038,
+    "translation": "écouter"
+  },
+  {
+    "infinitive": "escribir",
+    "count": 138,
+    "perc": 0.002280803239,
+    "translation": "écrire"
+  },
+  {
+    "infinitive": "permitir",
+    "count": 134,
+    "perc": 0.002214693001,
+    "translation": "permettre"
+  },
+  {
+    "infinitive": "echar",
+    "count": 132,
+    "perc": 0.002181637881,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "pedir",
+    "count": 128,
+    "perc": 0.002115527642,
+    "translation": "demander"
+  },
+  {
+    "infinitive": "recibir",
+    "count": 124,
+    "perc": 0.002049417404,
+    "translation": "recevoir"
+  },
+  {
+    "infinitive": "cambiar",
+    "count": 123,
+    "perc": 0.002032889844,
+    "translation": "changer"
+  },
+  {
+    "infinitive": "repetir",
+    "count": 123,
+    "perc": 0.002032889844,
+    "translation": "répéter"
+  },
+  {
+    "infinitive": "aparecer",
+    "count": 122,
+    "perc": 0.002016362284,
+    "translation": "apparaître"
+  },
+  {
+    "infinitive": "matar",
+    "count": 120,
+    "perc": 0.001983307165,
+    "translation": "tuer"
+  },
+  {
+    "infinitive": "meter",
+    "count": 120,
+    "perc": 0.001983307165,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "servir",
+    "count": 118,
+    "perc": 0.001950252045,
+    "translation": "servir"
+  },
+  {
+    "infinitive": "tirar",
+    "count": 118,
+    "perc": 0.001950252045,
+    "translation": "lancer"
+  },
+  {
+    "infinitive": "despertar",
+    "count": 116,
+    "perc": 0.001917196926,
+    "translation": "se réveiller"
+  },
+  {
+    "infinitive": "imaginar",
+    "count": 116,
+    "perc": 0.001917196926,
+    "translation": "imaginer"
+  },
+  {
+    "infinitive": "sé",
+    "count": 116,
+    "perc": 0.001917196926,
+    "translation": "être"
+  },
+  {
+    "infinitive": "gritar",
+    "count": 114,
+    "perc": 0.001884141806,
+    "translation": "crier"
+  },
+  {
+    "infinitive": "bajar",
+    "count": 114,
+    "perc": 0.001884141806,
+    "translation": "télécharger"
+  },
+  {
+    "infinitive": "decidir",
+    "count": 110,
+    "perc": 0.001818031568,
+    "translation": "décider"
+  },
+  {
+    "infinitive": "descubrir",
+    "count": 110,
+    "perc": 0.001818031568,
+    "translation": "découvrir"
+  },
+  {
+    "infinitive": "lograr",
+    "count": 107,
+    "perc": 0.001768448889,
+    "translation": "réaliser"
+  },
+  {
+    "infinitive": "faltar",
+    "count": 105,
+    "perc": 0.001735393769,
+    "translation": "manquer"
+  },
+  {
+    "infinitive": "olvidar",
+    "count": 104,
+    "perc": 0.001718866209,
+    "translation": "oublier"
+  },
+  {
+    "infinitive": "jugar",
+    "count": 103,
+    "perc": 0.00170233865,
+    "translation": "jouer"
+  },
+  {
+    "infinitive": "ganar",
+    "count": 98,
+    "perc": 0.001619700851,
+    "translation": "gagner"
+  },
+  {
+    "infinitive": "regresar",
+    "count": 97,
+    "perc": 0.001603173291,
+    "translation": "revenir à"
+  },
+  {
+    "infinitive": "cerrar",
+    "count": 97,
+    "perc": 0.001603173291,
+    "translation": "fermer"
+  },
+  {
+    "infinitive": "contestar",
+    "count": 95,
+    "perc": 0.001570118172,
+    "translation": "répondre"
+  },
+  {
+    "infinitive": "traer",
+    "count": 95,
+    "perc": 0.001570118172,
+    "translation": "apporter"
+  },
+  {
+    "infinitive": "quitar",
+    "count": 91,
+    "perc": 0.001504007933,
+    "translation": "supprimer"
+  },
+  {
+    "infinitive": "correr",
+    "count": 87,
+    "perc": 0.001437897694,
+    "translation": "courir"
+  },
+  {
+    "infinitive": "abandonar",
+    "count": 86,
+    "perc": 0.001421370135,
+    "translation": "quitter"
+  },
+  {
+    "infinitive": "mover",
+    "count": 86,
+    "perc": 0.001421370135,
+    "translation": "déplacer"
+  },
+  {
+    "infinitive": "suponer",
+    "count": 84,
+    "perc": 0.001388315015,
+    "translation": "assumer"
+  },
+  {
+    "infinitive": "mostrar",
+    "count": 83,
+    "perc": 0.001371787456,
+    "translation": "montrer"
+  },
+  {
+    "infinitive": "guardar",
+    "count": 80,
+    "perc": 0.001322204776,
+    "translation": "sauver"
+  },
+  {
+    "infinitive": "cumplir",
+    "count": 80,
+    "perc": 0.001322204776,
+    "translation": "se conformer"
+  },
+  {
+    "infinitive": "necesitar",
+    "count": 80,
+    "perc": 0.001322204776,
+    "translation": "besoin"
+  },
+  {
+    "infinitive": "reconocer",
+    "count": 79,
+    "perc": 0.001305677217,
+    "translation": "reconnaître"
+  },
+  {
+    "infinitive": "existir",
+    "count": 77,
+    "perc": 0.001272622097,
+    "translation": "exister"
+  },
+  {
+    "infinitive": "usar",
+    "count": 76,
+    "perc": 0.001256094538,
+    "translation": "utiliser"
+  },
+  {
+    "infinitive": "cantar",
+    "count": 76,
+    "perc": 0.001256094538,
+    "translation": "chanter"
+  },
+  {
+    "infinitive": "aceptar",
+    "count": 75,
+    "perc": 0.001239566978,
+    "translation": "accepter"
+  },
+  {
+    "infinitive": "sospechar",
+    "count": 75,
+    "perc": 0.001239566978,
+    "translation": "suspecter"
+  },
+  {
+    "infinitive": "beber",
+    "count": 74,
+    "perc": 0.001223039418,
+    "translation": "boire"
+  },
+  {
+    "infinitive": "resultar",
+    "count": 73,
+    "perc": 0.001206511859,
+    "translation": "être"
+  },
+  {
+    "infinitive": "mantener",
+    "count": 73,
+    "perc": 0.001206511859,
+    "translation": "maintenir"
+  },
+  {
+    "infinitive": "llenar",
+    "count": 73,
+    "perc": 0.001206511859,
+    "translation": "remplir"
+  },
+  {
+    "infinitive": "trabajar",
+    "count": 72,
+    "perc": 0.001189984299,
+    "translation": "travailer"
+  },
+  {
+    "infinitive": "colgar",
+    "count": 71,
+    "perc": 0.001173456739,
+    "translation": "suspendre"
+  },
+  {
+    "infinitive": "cruzar",
+    "count": 71,
+    "perc": 0.001173456739,
+    "translation": "croiser"
+  },
+  {
+    "infinitive": "caminar",
+    "count": 70,
+    "perc": 0.001156929179,
+    "translation": "marcher"
+  },
+  {
+    "infinitive": "sonar",
+    "count": 70,
+    "perc": 0.001156929179,
+    "translation": "sonar"
+  },
+  {
+    "infinitive": "desear",
+    "count": 70,
+    "perc": 0.001156929179,
+    "translation": "souhaiter"
+  },
+  {
+    "infinitive": "acercar",
+    "count": 69,
+    "perc": 0.00114040162,
+    "translation": "approcher"
+  },
+  {
+    "infinitive": "acordar",
+    "count": 68,
+    "perc": 0.00112387406,
+    "translation": "accepter"
+  },
+  {
+    "infinitive": "mandar",
+    "count": 68,
+    "perc": 0.00112387406,
+    "translation": "envoyer"
+  },
+  {
+    "infinitive": "oír",
+    "count": 67,
+    "perc": 0.0011073465,
+    "translation": "entendre"
+  },
+  {
+    "infinitive": "escapar",
+    "count": 67,
+    "perc": 0.0011073465,
+    "translation": "s'échapper"
+  },
+  {
+    "infinitive": "considerar",
+    "count": 66,
+    "perc": 0.001090818941,
+    "translation": "considérer"
+  },
+  {
+    "infinitive": "saltar",
+    "count": 66,
+    "perc": 0.001090818941,
+    "translation": "sauter"
+  },
+  {
+    "infinitive": "costar",
+    "count": 66,
+    "perc": 0.001090818941,
+    "translation": "coûter"
+  },
+  {
+    "infinitive": "sentar",
+    "count": 65,
+    "perc": 0.001074291381,
+    "translation": "s'asseoir"
+  },
+  {
+    "infinitive": "ayudar",
+    "count": 65,
+    "perc": 0.001074291381,
+    "translation": "aider"
+  },
+  {
+    "infinitive": "aprender",
+    "count": 65,
+    "perc": 0.001074291381,
+    "translation": "apprendre"
+  },
+  {
+    "infinitive": "respirar",
+    "count": 65,
+    "perc": 0.001074291381,
+    "translation": "respirer"
+  },
+  {
+    "infinitive": "encender",
+    "count": 65,
+    "perc": 0.001074291381,
+    "translation": "allumer"
+  },
+  {
+    "infinitive": "negar",
+    "count": 64,
+    "perc": 0.001057763821,
+    "translation": "refuser"
+  },
+  {
+    "infinitive": "golpear",
+    "count": 63,
+    "perc": 0.001041236261,
+    "translation": "frapper"
+  },
+  {
+    "infinitive": "detener",
+    "count": 63,
+    "perc": 0.001041236261,
+    "translation": "arrêter"
+  },
+  {
+    "infinitive": "replicar",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "reproduire"
+  },
+  {
+    "infinitive": "temblar",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "trembler"
+  },
+  {
+    "infinitive": "anunciar",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "annoncer"
+  },
+  {
+    "infinitive": "insistir",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "insister"
+  },
+  {
+    "infinitive": "renunciar",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "démissionner"
+  },
+  {
+    "infinitive": "fumar",
+    "count": 60,
+    "perc": 0.0009916535823,
+    "translation": "fumer"
+  },
+  {
+    "infinitive": "convertir",
+    "count": 59,
+    "perc": 0.0009751260226,
+    "translation": "convertir"
+  },
+  {
+    "infinitive": "visitar",
+    "count": 59,
+    "perc": 0.0009751260226,
+    "translation": "visiter"
+  },
+  {
+    "infinitive": "comprar",
+    "count": 59,
+    "perc": 0.0009751260226,
+    "translation": "acheter"
+  },
+  {
+    "infinitive": "pagar",
+    "count": 58,
+    "perc": 0.0009585984629,
+    "translation": "payer"
+  },
+  {
+    "infinitive": "avanzar",
+    "count": 57,
+    "perc": 0.0009420709032,
+    "translation": "avancer"
+  },
+  {
+    "infinitive": "disponer",
+    "count": 56,
+    "perc": 0.0009255433435,
+    "translation": "arranger"
+  },
+  {
+    "infinitive": "ordenar",
+    "count": 55,
+    "perc": 0.0009090157838,
+    "translation": "commander"
+  },
+  {
+    "infinitive": "agarrar",
+    "count": 55,
+    "perc": 0.0009090157838,
+    "translation": "saisir"
+  },
+  {
+    "infinitive": "armar",
+    "count": 55,
+    "perc": 0.0009090157838,
+    "translation": "assembler"
+  },
+  {
+    "infinitive": "permanecer",
+    "count": 54,
+    "perc": 0.0008924882241,
+    "translation": "rester"
+  },
+  {
+    "infinitive": "soñar",
+    "count": 54,
+    "perc": 0.0008924882241,
+    "translation": "rêver"
+  },
+  {
+    "infinitive": "ignorar",
+    "count": 53,
+    "perc": 0.0008759606644,
+    "translation": "ignorer"
+  },
+  {
+    "infinitive": "resolver",
+    "count": 53,
+    "perc": 0.0008759606644,
+    "translation": "résoudre"
+  },
+  {
+    "infinitive": "preparar",
+    "count": 53,
+    "perc": 0.0008759606644,
+    "translation": "préparer"
+  },
+  {
+    "infinitive": "revelar",
+    "count": 52,
+    "perc": 0.0008594331047,
+    "translation": "divulguer"
+  },
+  {
+    "infinitive": "iniciar",
+    "count": 52,
+    "perc": 0.0008594331047,
+    "translation": "commencer"
+  },
+  {
+    "infinitive": "admitir",
+    "count": 51,
+    "perc": 0.000842905545,
+    "translation": "admettre"
+  },
+  {
+    "infinitive": "entregar",
+    "count": 51,
+    "perc": 0.000842905545,
+    "translation": "livrer"
+  },
+  {
+    "infinitive": "asomar",
+    "count": 50,
+    "perc": 0.0008263779853,
+    "translation": "piquer"
+  },
+  {
+    "infinitive": "entrabar",
+    "count": 50,
+    "perc": 0.0008263779853,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "atacar",
+    "count": 50,
+    "perc": 0.0008263779853,
+    "translation": "attaquer"
+  },
+  {
+    "infinitive": "romper",
+    "count": 49,
+    "perc": 0.0008098504256,
+    "translation": "rompre"
+  },
+  {
+    "infinitive": "interesar",
+    "count": 49,
+    "perc": 0.0008098504256,
+    "translation": "intéreser"
+  },
+  {
+    "infinitive": "producir",
+    "count": 49,
+    "perc": 0.0008098504256,
+    "translation": "produire"
+  },
+  {
+    "infinitive": "preferir",
+    "count": 49,
+    "perc": 0.0008098504256,
+    "translation": "préférer"
+  },
+  {
+    "infinitive": "girar",
+    "count": 48,
+    "perc": 0.0007933228659,
+    "translation": "tourner"
+  },
+  {
+    "infinitive": "resistir",
+    "count": 47,
+    "perc": 0.0007767953062,
+    "translation": "résister"
+  },
+  {
+    "infinitive": "significar",
+    "count": 47,
+    "perc": 0.0007767953062,
+    "translation": "signifier"
+  },
+  {
+    "infinitive": "formar",
+    "count": 46,
+    "perc": 0.0007602677465,
+    "translation": "formulaire"
+  },
+  {
+    "infinitive": "ofrecer",
+    "count": 46,
+    "perc": 0.0007602677465,
+    "translation": "offrir"
+  },
+  {
+    "infinitive": "suceder",
+    "count": 46,
+    "perc": 0.0007602677465,
+    "translation": "se produire"
+  },
+  {
+    "infinitive": "advertir",
+    "count": 46,
+    "perc": 0.0007602677465,
+    "translation": "avertir"
+  },
+  {
+    "infinitive": "atravesar",
+    "count": 45,
+    "perc": 0.0007437401868,
+    "translation": "traverser"
+  },
+  {
+    "infinitive": "impedir",
+    "count": 45,
+    "perc": 0.0007437401868,
+    "translation": "prévenir"
+  },
+  {
+    "infinitive": "presentar",
+    "count": 44,
+    "perc": 0.0007272126271,
+    "translation": "soumettre"
+  },
+  {
+    "infinitive": "demostrar",
+    "count": 44,
+    "perc": 0.0007272126271,
+    "translation": "démontrer"
+  },
+  {
+    "infinitive": "salar",
+    "count": 44,
+    "perc": 0.0007272126271,
+    "translation": "saler"
+  },
+  {
+    "infinitive": "arreglar",
+    "count": 44,
+    "perc": 0.0007272126271,
+    "translation": "fixer"
+  },
+  {
+    "infinitive": "enterar",
+    "count": 44,
+    "perc": 0.0007272126271,
+    "translation": "découvrir"
+  },
+  {
+    "infinitive": "confundir",
+    "count": 43,
+    "perc": 0.0007106850673,
+    "translation": "confondre"
+  },
+  {
+    "infinitive": "indicar",
+    "count": 43,
+    "perc": 0.0007106850673,
+    "translation": "indiquer"
+  },
+  {
+    "infinitive": "parar",
+    "count": 43,
+    "perc": 0.0007106850673,
+    "translation": "arrêter"
+  },
+  {
+    "infinitive": "molestar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "perturber"
+  },
+  {
+    "infinitive": "luchar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "combattre"
+  },
+  {
+    "infinitive": "saludar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "saluer"
+  },
+  {
+    "infinitive": "agregar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "ajouter"
+  },
+  {
+    "infinitive": "rechazar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "rejeter"
+  },
+  {
+    "infinitive": "percibir",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "percevoir"
+  },
+  {
+    "infinitive": "apoyar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "soutien"
+  },
+  {
+    "infinitive": "provocar",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "provoquer"
+  },
+  {
+    "infinitive": "pretender",
+    "count": 42,
+    "perc": 0.0006941575076,
+    "translation": "prétendre"
+  },
+  {
+    "infinitive": "ocupar",
+    "count": 41,
+    "perc": 0.0006776299479,
+    "translation": "occuper"
+  },
+  {
+    "infinitive": "acariciar",
+    "count": 41,
+    "perc": 0.0006776299479,
+    "translation": "caresser"
+  },
+  {
+    "infinitive": "establecer",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "établir"
+  },
+  {
+    "infinitive": "intentar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "essayer"
+  },
+  {
+    "infinitive": "durar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "dernier"
+  },
+  {
+    "infinitive": "soportar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "soutien"
+  },
+  {
+    "infinitive": "fijar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "fixer"
+  },
+  {
+    "infinitive": "evitar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "éviter"
+  },
+  {
+    "infinitive": "continuar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "continuer"
+  },
+  {
+    "infinitive": "apagar",
+    "count": 40,
+    "perc": 0.0006611023882,
+    "translation": "éteindre"
+  },
+  {
+    "infinitive": "devolver",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "retourner"
+  },
+  {
+    "infinitive": "sorprender",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "surprendre"
+  },
+  {
+    "infinitive": "examinar",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "examiner"
+  },
+  {
+    "infinitive": "procurar",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "se procurer"
+  },
+  {
+    "infinitive": "pelear",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "combattre"
+  },
+  {
+    "infinitive": "cubrir",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "couverture"
+  },
+  {
+    "infinitive": "proponer",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "proposer"
+  },
+  {
+    "infinitive": "reir",
+    "count": 39,
+    "perc": 0.0006445748285,
+    "translation": "rire"
+  },
+  {
+    "infinitive": "tardar",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "prendre"
+  },
+  {
+    "infinitive": "prometer",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "promettre"
+  },
+  {
+    "infinitive": "construir",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "construire"
+  },
+  {
+    "infinitive": "observar",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "observer"
+  },
+  {
+    "infinitive": "murmurar",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "murmurer"
+  },
+  {
+    "infinitive": "encerrar",
+    "count": 38,
+    "perc": 0.0006280472688,
+    "translation": "verrouiller"
+  },
+  {
+    "infinitive": "instalar",
+    "count": 37,
+    "perc": 0.0006115197091,
+    "translation": "installer"
+  },
+  {
+    "infinitive": "sufrir",
+    "count": 37,
+    "perc": 0.0006115197091,
+    "translation": "souffrir"
+  },
+  {
+    "infinitive": "separar",
+    "count": 37,
+    "perc": 0.0006115197091,
+    "translation": "séparer"
+  },
+  {
+    "infinitive": "concebir",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "concevoir"
+  },
+  {
+    "infinitive": "dedicar",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "dédier"
+  },
+  {
+    "infinitive": "enseñar",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "enseigner"
+  },
+  {
+    "infinitive": "dirigir",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "diriger"
+  },
+  {
+    "infinitive": "viajar",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "voyager"
+  },
+  {
+    "infinitive": "sobrar",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "excédentaire"
+  },
+  {
+    "infinitive": "resbalar",
+    "count": 36,
+    "perc": 0.0005949921494,
+    "translation": "glisser"
+  },
+  {
+    "infinitive": "exclamar",
+    "count": 35,
+    "perc": 0.0005784645897,
+    "translation": "s'exclamer"
+  },
+  {
+    "infinitive": "oler",
+    "count": 35,
+    "perc": 0.0005784645897,
+    "translation": "sentier"
+  },
+  {
+    "infinitive": "preocupar",
+    "count": 35,
+    "perc": 0.0005784645897,
+    "translation": "s'inquiéter"
+  },
+  {
+    "infinitive": "salvar",
+    "count": 35,
+    "perc": 0.0005784645897,
+    "translation": "sauver"
+  },
+  {
+    "infinitive": "mezclar",
+    "count": 35,
+    "perc": 0.0005784645897,
+    "translation": "mélanger"
+  },
+  {
+    "infinitive": "inventar",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "inventer"
+  },
+  {
+    "infinitive": "aprovechar",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "profiter de"
+  },
+  {
+    "infinitive": "señalar",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "pointer vers"
+  },
+  {
+    "infinitive": "invitar",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "inviter"
+  },
+  {
+    "infinitive": "elegir",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "choisir"
+  },
+  {
+    "infinitive": "probar",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "essayer"
+  },
+  {
+    "infinitive": "rodear",
+    "count": 34,
+    "perc": 0.00056193703,
+    "translation": "faire le tour"
+  },
+  {
+    "infinitive": "vender",
+    "count": 33,
+    "perc": 0.0005454094703,
+    "translation": "vendre"
+  },
+  {
+    "infinitive": "sacudir",
+    "count": 33,
+    "perc": 0.0005454094703,
+    "translation": "secouer"
+  },
+  {
+    "infinitive": "compartir",
+    "count": 33,
+    "perc": 0.0005454094703,
+    "translation": "partager"
+  },
+  {
+    "infinitive": "jurar",
+    "count": 33,
+    "perc": 0.0005454094703,
+    "translation": "jurer"
+  },
+  {
+    "infinitive": "comenzar",
+    "count": 33,
+    "perc": 0.0005454094703,
+    "translation": "commencer"
+  },
+  {
+    "infinitive": "conservar",
+    "count": 32,
+    "perc": 0.0005288819106,
+    "translation": "conserver"
+  },
+  {
+    "infinitive": "cortar",
+    "count": 32,
+    "perc": 0.0005288819106,
+    "translation": "couper"
+  },
+  {
+    "infinitive": "arrancar",
+    "count": 32,
+    "perc": 0.0005288819106,
+    "translation": "commencer"
+  },
+  {
+    "infinitive": "comentar",
+    "count": 31,
+    "perc": 0.0005123543509,
+    "translation": "commenter"
+  },
+  {
+    "infinitive": "sostener",
+    "count": 31,
+    "perc": 0.0005123543509,
+    "translation": "soutenir"
+  },
+  {
+    "infinitive": "callar",
+    "count": 31,
+    "perc": 0.0005123543509,
+    "translation": "se taire"
+  },
+  {
+    "infinitive": "desaparecer",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "disparaître"
+  },
+  {
+    "infinitive": "flotar",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "flotter"
+  },
+  {
+    "infinitive": "recoger",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "collecter"
+  },
+  {
+    "infinitive": "jugando",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "jouer"
+  },
+  {
+    "infinitive": "constar",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "enregistrer"
+  },
+  {
+    "infinitive": "distinguir",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "distinguer"
+  },
+  {
+    "infinitive": "intervenir",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "intervenir"
+  },
+  {
+    "infinitive": "referir",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "renvoyer"
+  },
+  {
+    "infinitive": "brillar",
+    "count": 30,
+    "perc": 0.0004958267912,
+    "translation": "briller"
+  },
+  {
+    "infinitive": "cuidar",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "prendre soin"
+  },
+  {
+    "infinitive": "sonreir",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "sourire"
+  },
+  {
+    "infinitive": "acompañar",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "accompagner"
+  },
+  {
+    "infinitive": "crecer",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "croître"
+  },
+  {
+    "infinitive": "enterrar",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "enterrer"
+  },
+  {
+    "infinitive": "transcurrir",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "disparar",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "incendie"
+  },
+  {
+    "infinitive": "representar",
+    "count": 29,
+    "perc": 0.0004792992315,
+    "translation": "représenter"
+  },
+  {
+    "infinitive": "reír",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "rire"
+  },
+  {
+    "infinitive": "obtener",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "obtenir"
+  },
+  {
+    "infinitive": "vestir",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "s'habiller"
+  },
+  {
+    "infinitive": "emprender",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "s'engager"
+  },
+  {
+    "infinitive": "obligar",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "obliger"
+  },
+  {
+    "infinitive": "descansar",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "reposer"
+  },
+  {
+    "infinitive": "estudiar",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "étudier"
+  },
+  {
+    "infinitive": "asegurar",
+    "count": 28,
+    "perc": 0.0004627716718,
+    "translation": "sécuriser"
+  },
+  {
+    "infinitive": "ceder",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "céder"
+  },
+  {
+    "infinitive": "atrever",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "oser"
+  },
+  {
+    "infinitive": "vengar",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "venger"
+  },
+  {
+    "infinitive": "pertenecer",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "appartenir"
+  },
+  {
+    "infinitive": "conducir",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "conduire"
+  },
+  {
+    "infinitive": "pintar",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "peinture"
+  },
+  {
+    "infinitive": "afirmar",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "affirmer"
+  },
+  {
+    "infinitive": "admirar",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "admirer"
+  },
+  {
+    "infinitive": "retroceder",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "revenir en arrière"
+  },
+  {
+    "infinitive": "sonreír",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "sourire"
+  },
+  {
+    "infinitive": "tender",
+    "count": 27,
+    "perc": 0.0004462441121,
+    "translation": "tendre"
+  },
+  {
+    "infinitive": "comprobar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "vérifier"
+  },
+  {
+    "infinitive": "adivinar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "deviner"
+  },
+  {
+    "infinitive": "prestar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "fournir"
+  },
+  {
+    "infinitive": "exigir",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "exiger"
+  },
+  {
+    "infinitive": "dejando",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "quitter"
+  },
+  {
+    "infinitive": "consistir",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "consister en"
+  },
+  {
+    "infinitive": "apuntar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "pointer"
+  },
+  {
+    "infinitive": "aguantar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "tenir bon"
+  },
+  {
+    "infinitive": "mencionar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "mentionner"
+  },
+  {
+    "infinitive": "circular",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "circulaire"
+  },
+  {
+    "infinitive": "juntar",
+    "count": 26,
+    "perc": 0.0004297165524,
+    "translation": "collecter"
+  },
+  {
+    "infinitive": "confiar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "confiance"
+  },
+  {
+    "infinitive": "imponer",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "imposer"
+  },
+  {
+    "infinitive": "bailar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "danser"
+  },
+  {
+    "infinitive": "anochecer",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "tomber nuit"
+  },
+  {
+    "infinitive": "vigilar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "monitorer"
+  },
+  {
+    "infinitive": "declarar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "déclarer"
+  },
+  {
+    "infinitive": "notar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "noter"
+  },
+  {
+    "infinitive": "acomodar",
+    "count": 25,
+    "perc": 0.0004131889926,
+    "translation": "accueillir"
+  },
+  {
+    "infinitive": "tapar",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "ficher"
+  },
+  {
+    "infinitive": "merecer",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "mériter"
+  },
+  {
+    "infinitive": "interpretar",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "interpréter"
+  },
+  {
+    "infinitive": "empujar",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "pousser"
+  },
+  {
+    "infinitive": "regalar",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "donner"
+  },
+  {
+    "infinitive": "enfrentar",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "confronter"
+  },
+  {
+    "infinitive": "sugerir",
+    "count": 24,
+    "perc": 0.0003966614329,
+    "translation": "suggérer"
+  },
+  {
+    "infinitive": "experimentar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "expériencer"
+  },
+  {
+    "infinitive": "descender",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "faire défiler vers le bas"
+  },
+  {
+    "infinitive": "confirmar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "confirmer"
+  },
+  {
+    "infinitive": "cargar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "télécharger"
+  },
+  {
+    "infinitive": "responder",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "répondre"
+  },
+  {
+    "infinitive": "corresponder",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "correspondre"
+  },
+  {
+    "infinitive": "averiguar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "découvrir"
+  },
+  {
+    "infinitive": "aclarar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "clarifier"
+  },
+  {
+    "infinitive": "unir",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "rejoindre"
+  },
+  {
+    "infinitive": "figurar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "apparaître"
+  },
+  {
+    "infinitive": "surgir",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "naître"
+  },
+  {
+    "infinitive": "también",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "également"
+  },
+  {
+    "infinitive": "alzar",
+    "count": 23,
+    "perc": 0.0003801338732,
+    "translation": "Augmenter"
+  },
+  {
+    "infinitive": "convencer",
+    "count": 22,
+    "perc": 0.0003636063135,
+    "translation": "convaincre"
+  },
+  {
+    "infinitive": "suscitar",
+    "count": 22,
+    "perc": 0.0003636063135,
+    "translation": "élever"
+  },
+  {
+    "infinitive": "fusilar",
+    "count": 22,
+    "perc": 0.0003636063135,
+    "translation": "tirer"
+  },
+  {
+    "infinitive": "proteger",
+    "count": 22,
+    "perc": 0.0003636063135,
+    "translation": "protéger"
+  },
+  {
+    "infinitive": "dibujar",
+    "count": 22,
+    "perc": 0.0003636063135,
+    "translation": "tirer au sort"
+  },
+  {
+    "infinitive": "reunir",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "rassembler"
+  },
+  {
+    "infinitive": "cazar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "chasser"
+  },
+  {
+    "infinitive": "clavar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "clouer"
+  },
+  {
+    "infinitive": "participar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "participer"
+  },
+  {
+    "infinitive": "huir",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "s'enfuir"
+  },
+  {
+    "infinitive": "gozar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "jouir"
+  },
+  {
+    "infinitive": "identificar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "identifier"
+  },
+  {
+    "infinitive": "aumentar",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "augmenter"
+  },
+  {
+    "infinitive": "constituir",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "mettre en place"
+  },
+  {
+    "infinitive": "atribuir",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "attribuer"
+  },
+  {
+    "infinitive": "contener",
+    "count": 21,
+    "perc": 0.0003470787538,
+    "translation": "contenir"
+  },
+  {
+    "infinitive": "componer",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "composer"
+  },
+  {
+    "infinitive": "interrumpir",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "interrompre"
+  },
+  {
+    "infinitive": "tropezar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "trébucher"
+  },
+  {
+    "infinitive": "organizar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "organiser"
+  },
+  {
+    "infinitive": "destruir",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "détruire"
+  },
+  {
+    "infinitive": "asistir",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "assister"
+  },
+  {
+    "infinitive": "pasear",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "faire une promenade"
+  },
+  {
+    "infinitive": "suspirar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "soupirer"
+  },
+  {
+    "infinitive": "lanzar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "lancer"
+  },
+  {
+    "infinitive": "optar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "opter"
+  },
+  {
+    "infinitive": "quemar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "brûler"
+  },
+  {
+    "infinitive": "convenir",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "accepter"
+  },
+  {
+    "infinitive": "discutir",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "discuter"
+  },
+  {
+    "infinitive": "actuar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "acte"
+  },
+  {
+    "infinitive": "enderezar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "redresser"
+  },
+  {
+    "infinitive": "alejar",
+    "count": 20,
+    "perc": 0.0003305511941,
+    "translation": "dézoomer"
+  },
+  {
+    "infinitive": "asombrar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "étonner"
+  },
+  {
+    "infinitive": "extender",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "étendre"
+  },
+  {
+    "infinitive": "apartar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "mettre de côté"
+  },
+  {
+    "infinitive": "descifrar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "déchiffrer"
+  },
+  {
+    "infinitive": "ocultar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "cacher"
+  },
+  {
+    "infinitive": "sudar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "suer"
+  },
+  {
+    "infinitive": "funcionar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "opérer"
+  },
+  {
+    "infinitive": "recuperar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "récupérer"
+  },
+  {
+    "infinitive": "evocar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "évoquer"
+  },
+  {
+    "infinitive": "desprender",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "détacher"
+  },
+  {
+    "infinitive": "justificar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "justifier"
+  },
+  {
+    "infinitive": "juzgar",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "juger"
+  },
+  {
+    "infinitive": "requerir",
+    "count": 19,
+    "perc": 0.0003140236344,
+    "translation": "exiger"
+  },
+  {
+    "infinitive": "precipitar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "précipiter"
+  },
+  {
+    "infinitive": "prender",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "transmitir",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "transmettre"
+  },
+  {
+    "infinitive": "retirar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "se retirer"
+  },
+  {
+    "infinitive": "envolver",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "envelopper"
+  },
+  {
+    "infinitive": "determinar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "déterminer"
+  },
+  {
+    "infinitive": "estirar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "étirer"
+  },
+  {
+    "infinitive": "apresurar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "accélérer"
+  },
+  {
+    "infinitive": "incluir",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "inclure"
+  },
+  {
+    "infinitive": "almorzar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "déjeuner"
+  },
+  {
+    "infinitive": "alimentar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "alimenter"
+  },
+  {
+    "infinitive": "tejer",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "tisser"
+  },
+  {
+    "infinitive": "invadir",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "envahir"
+  },
+  {
+    "infinitive": "defender",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "défenseur"
+  },
+  {
+    "infinitive": "atraer",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "attirer"
+  },
+  {
+    "infinitive": "secar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "secher"
+  },
+  {
+    "infinitive": "aguardar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "attendre"
+  },
+  {
+    "infinitive": "hallar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "trouver"
+  },
+  {
+    "infinitive": "sujetar",
+    "count": 18,
+    "perc": 0.0002974960747,
+    "translation": "fixer"
+  },
+  {
+    "infinitive": "estremecer",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "trembler"
+  },
+  {
+    "infinitive": "confesar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "avouer"
+  },
+  {
+    "infinitive": "transformar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "transformer"
+  },
+  {
+    "infinitive": "asustar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "épouvante"
+  },
+  {
+    "infinitive": "atormentar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "tourment"
+  },
+  {
+    "infinitive": "contemplar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "voir"
+  },
+  {
+    "infinitive": "tragar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "avaler"
+  },
+  {
+    "infinitive": "conversar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "converser"
+  },
+  {
+    "infinitive": "concluir",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "conclure"
+  },
+  {
+    "infinitive": "aproximar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "approximatif"
+  },
+  {
+    "infinitive": "suplicar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "plaider"
+  },
+  {
+    "infinitive": "lavar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "laver"
+  },
+  {
+    "infinitive": "coincidir",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "correspondre"
+  },
+  {
+    "infinitive": "caber",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "s'adapter"
+  },
+  {
+    "infinitive": "proclamar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "proclamer"
+  },
+  {
+    "infinitive": "informar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "informer"
+  },
+  {
+    "infinitive": "vislumbrar",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "aperçu"
+  },
+  {
+    "infinitive": "deducir",
+    "count": 17,
+    "perc": 0.000280968515,
+    "translation": "déduire"
+  },
+  {
+    "infinitive": "fabricar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "fabricer"
+  },
+  {
+    "infinitive": "perseguir",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "poursuivre"
+  },
+  {
+    "infinitive": "prolongar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "étendre"
+  },
+  {
+    "infinitive": "recobrar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "récupérer"
+  },
+  {
+    "infinitive": "comunicar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "communiquer"
+  },
+  {
+    "infinitive": "describir",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "décrire"
+  },
+  {
+    "infinitive": "agradecer",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "remercier"
+  },
+  {
+    "infinitive": "reducir",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "réduire"
+  },
+  {
+    "infinitive": "fingir",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "prétendre"
+  },
+  {
+    "infinitive": "traducir",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "traduire"
+  },
+  {
+    "infinitive": "nombrar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "dénombrer"
+  },
+  {
+    "infinitive": "esparar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "disperser"
+  },
+  {
+    "infinitive": "distraer",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "distraire"
+  },
+  {
+    "infinitive": "calcular",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "calculer"
+  },
+  {
+    "infinitive": "pescar",
+    "count": 16,
+    "perc": 0.0002644409553,
+    "translation": "pecher"
+  },
+  {
+    "infinitive": "penetrar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "pénétrer"
+  },
+  {
+    "infinitive": "bañar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "se baigner"
+  },
+  {
+    "infinitive": "curar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "guérir"
+  },
+  {
+    "infinitive": "manejar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "gérer"
+  },
+  {
+    "infinitive": "esconder",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "cacher"
+  },
+  {
+    "infinitive": "elevar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "élever"
+  },
+  {
+    "infinitive": "denunciar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "rapport"
+  },
+  {
+    "infinitive": "proceder",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "procéder à"
+  },
+  {
+    "infinitive": "limitar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "limiter"
+  },
+  {
+    "infinitive": "comparar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "comparer"
+  },
+  {
+    "infinitive": "enfermar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "tomber malade"
+  },
+  {
+    "infinitive": "avisar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "notifier"
+  },
+  {
+    "infinitive": "abundar",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "abonder"
+  },
+  {
+    "infinitive": "arder",
+    "count": 15,
+    "perc": 0.0002479133956,
+    "translation": "brûler"
+  },
+  {
+    "infinitive": "plantar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "planter"
+  },
+  {
+    "infinitive": "sobrevivir",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "survivre"
+  },
+  {
+    "infinitive": "hervir",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "bouillir"
+  },
+  {
+    "infinitive": "inspirar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "inspirer"
+  },
+  {
+    "infinitive": "disimular",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "déguiser"
+  },
+  {
+    "infinitive": "celebrar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "célébrer"
+  },
+  {
+    "infinitive": "iluminar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "éclairer"
+  },
+  {
+    "infinitive": "mudar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "déplacer"
+  },
+  {
+    "infinitive": "reaccionar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "réagir"
+  },
+  {
+    "infinitive": "recurrir",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "recourrir"
+  },
+  {
+    "infinitive": "dudar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "hésiter"
+  },
+  {
+    "infinitive": "consultar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "consulter"
+  },
+  {
+    "infinitive": "asumir",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "prendre"
+  },
+  {
+    "infinitive": "dominar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "dominer"
+  },
+  {
+    "infinitive": "medir",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "mesurer"
+  },
+  {
+    "infinitive": "reclamar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "demander"
+  },
+  {
+    "infinitive": "sumar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "ajouter"
+  },
+  {
+    "infinitive": "agachar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "squater"
+  },
+  {
+    "infinitive": "encantar",
+    "count": 14,
+    "perc": 0.0002313858359,
+    "translation": "enchanter"
+  },
+  {
+    "infinitive": "explorar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "explorer"
+  },
+  {
+    "infinitive": "utilizar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "utiliser"
+  },
+  {
+    "infinitive": "remontar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "revenir en arrière"
+  },
+  {
+    "infinitive": "derribar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "démolir"
+  },
+  {
+    "infinitive": "doblar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "plier"
+  },
+  {
+    "infinitive": "pronunciar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "prononcer"
+  },
+  {
+    "infinitive": "sucumbir",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "succomber"
+  },
+  {
+    "infinitive": "marchar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "aller"
+  },
+  {
+    "infinitive": "pisar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "visiter"
+  },
+  {
+    "infinitive": "ahogar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "se noyer"
+  },
+  {
+    "infinitive": "explotar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "exploiter"
+  },
+  {
+    "infinitive": "desbordar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "déborder"
+  },
+  {
+    "infinitive": "concentrar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "se concentrer"
+  },
+  {
+    "infinitive": "restaurar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "restaurer"
+  },
+  {
+    "infinitive": "obedecer",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "obéir"
+  },
+  {
+    "infinitive": "apreciar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "apprécier"
+  },
+  {
+    "infinitive": "enviar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "envoyer"
+  },
+  {
+    "infinitive": "vacilar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "hésiter"
+  },
+  {
+    "infinitive": "amenazar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "menacer"
+  },
+  {
+    "infinitive": "respetar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "respecter"
+  },
+  {
+    "infinitive": "vibrar",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "vibrer"
+  },
+  {
+    "infinitive": "aplaudir",
+    "count": 13,
+    "perc": 0.0002148582762,
+    "translation": "applaudir"
+  },
+  {
+    "infinitive": "sembrar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "semer"
+  },
+  {
+    "infinitive": "recitar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "réciter"
+  },
+  {
+    "infinitive": "violar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "violer"
+  },
+  {
+    "infinitive": "besar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "baiser"
+  },
+  {
+    "infinitive": "alegrar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "se réjouir"
+  },
+  {
+    "infinitive": "coser",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "coudre"
+  },
+  {
+    "infinitive": "rendir",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "soumettre"
+  },
+  {
+    "infinitive": "acostumbrar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "s'habituer"
+  },
+  {
+    "infinitive": "ejecutar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "courir"
+  },
+  {
+    "infinitive": "rescatar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "sauver"
+  },
+  {
+    "infinitive": "burlar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "contourner"
+  },
+  {
+    "infinitive": "descargar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "télécharger"
+  },
+  {
+    "infinitive": "morder",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "mordre"
+  },
+  {
+    "infinitive": "aplicar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "appliquer"
+  },
+  {
+    "infinitive": "fallar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "échouer"
+  },
+  {
+    "infinitive": "definir",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "définir"
+  },
+  {
+    "infinitive": "silbar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "siffler"
+  },
+  {
+    "infinitive": "promover",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "promouvoir"
+  },
+  {
+    "infinitive": "cobrar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "charger"
+  },
+  {
+    "infinitive": "sacrificar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "sacrifier"
+  },
+  {
+    "infinitive": "depender",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "s'appuyer"
+  },
+  {
+    "infinitive": "frotar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "frotter"
+  },
+  {
+    "infinitive": "limpiar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "propre"
+  },
+  {
+    "infinitive": "captar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "capturer"
+  },
+  {
+    "infinitive": "resonar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "résonner"
+  },
+  {
+    "infinitive": "alumbrar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "l'éclairage"
+  },
+  {
+    "infinitive": "completar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "completer"
+  },
+  {
+    "infinitive": "inclinar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "incliner"
+  },
+  {
+    "infinitive": "largar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "lancement"
+  },
+  {
+    "infinitive": "escalar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "grimper"
+  },
+  {
+    "infinitive": "imitar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "imiter"
+  },
+  {
+    "infinitive": "negociar",
+    "count": 12,
+    "perc": 0.0001983307165,
+    "translation": "négocier"
+  },
+  {
+    "infinitive": "rezar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "prier"
+  },
+  {
+    "infinitive": "exhalar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "expirer"
+  },
+  {
+    "infinitive": "despedazar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "déchirer"
+  },
+  {
+    "infinitive": "expresar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "expremier"
+  },
+  {
+    "infinitive": "desbaratar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "perturber"
+  },
+  {
+    "infinitive": "perdonar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "pardoner"
+  },
+  {
+    "infinitive": "repartir",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "distribuer"
+  },
+  {
+    "infinitive": "corregir",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "corriger"
+  },
+  {
+    "infinitive": "oponer",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "s'opposer"
+  },
+  {
+    "infinitive": "restablecer",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "réinitialiser"
+  },
+  {
+    "infinitive": "reprochar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "reproche"
+  },
+  {
+    "infinitive": "superar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "surmonter"
+  },
+  {
+    "infinitive": "causar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "cause"
+  },
+  {
+    "infinitive": "borrar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "supprimer"
+  },
+  {
+    "infinitive": "verlo",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "voir"
+  },
+  {
+    "infinitive": "divertir",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "s'amuser"
+  },
+  {
+    "infinitive": "afeitar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "raser"
+  },
+  {
+    "infinitive": "dictar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "dicter"
+  },
+  {
+    "infinitive": "precisar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "préciser"
+  },
+  {
+    "infinitive": "espiar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "espioner"
+  },
+  {
+    "infinitive": "portar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "transporter"
+  },
+  {
+    "infinitive": "devorar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "dévorer"
+  },
+  {
+    "infinitive": "extraer",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "extraire"
+  },
+  {
+    "infinitive": "calmar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "apaiser"
+  },
+  {
+    "infinitive": "interrogar",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "questioner"
+  },
+  {
+    "infinitive": "ascender",
+    "count": 11,
+    "perc": 0.0001818031568,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "perturbar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "perturber"
+  },
+  {
+    "infinitive": "exaltar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "exalter"
+  },
+  {
+    "infinitive": "acordarse",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "se souvenir"
+  },
+  {
+    "infinitive": "acostarse",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "aller au lit"
+  },
+  {
+    "infinitive": "velar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "regarder"
+  },
+  {
+    "infinitive": "arrojar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "lancer"
+  },
+  {
+    "infinitive": "lamentar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "regreter"
+  },
+  {
+    "infinitive": "alarmar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "alarmer"
+  },
+  {
+    "infinitive": "extrañar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "manquer"
+  },
+  {
+    "infinitive": "impresionar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "impressionner"
+  },
+  {
+    "infinitive": "prohibir",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "interdir"
+  },
+  {
+    "infinitive": "acudir",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "irrumpir",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "éclater"
+  },
+  {
+    "infinitive": "cometer",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "s'engager"
+  },
+  {
+    "infinitive": "liquidar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "liquider"
+  },
+  {
+    "infinitive": "protestar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "protestation"
+  },
+  {
+    "infinitive": "calentar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "s'échauffer"
+  },
+  {
+    "infinitive": "preceder",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "précéder"
+  },
+  {
+    "infinitive": "cenar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "dîner"
+  },
+  {
+    "infinitive": "reconstruir",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "reconstruire"
+  },
+  {
+    "infinitive": "aconsejar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "conseiller"
+  },
+  {
+    "infinitive": "plantear",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "élever"
+  },
+  {
+    "infinitive": "aflojar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "desserrer"
+  },
+  {
+    "infinitive": "ensayar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "répéter"
+  },
+  {
+    "infinitive": "trepar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "grimper"
+  },
+  {
+    "infinitive": "abarcar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "englober"
+  },
+  {
+    "infinitive": "filtrar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "filtrer"
+  },
+  {
+    "infinitive": "consentir",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "consentir"
+  },
+  {
+    "infinitive": "rondar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "survoler"
+  },
+  {
+    "infinitive": "apurar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "accélérer"
+  },
+  {
+    "infinitive": "vomitar",
+    "count": 10,
+    "perc": 0.0001652755971,
+    "translation": "vomir"
+  },
+  {
+    "infinitive": "controlar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "contrôle"
+  },
+  {
+    "infinitive": "refugiarse",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "se réfugier"
+  },
+  {
+    "infinitive": "divulgar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "diffuser"
+  },
+  {
+    "infinitive": "contribuir",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "contribuer"
+  },
+  {
+    "infinitive": "practicar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "pratique"
+  },
+  {
+    "infinitive": "alternar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "basculer"
+  },
+  {
+    "infinitive": "datar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "dater"
+  },
+  {
+    "infinitive": "errar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "errer"
+  },
+  {
+    "infinitive": "disipar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "dissiper"
+  },
+  {
+    "infinitive": "impregnar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "imprégner"
+  },
+  {
+    "infinitive": "orinar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "uriner"
+  },
+  {
+    "infinitive": "escoger",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "choisir"
+  },
+  {
+    "infinitive": "reunirse",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "rencontrer"
+  },
+  {
+    "infinitive": "desatar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "délier"
+  },
+  {
+    "infinitive": "liberar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "libérer"
+  },
+  {
+    "infinitive": "condenar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "condamner"
+  },
+  {
+    "infinitive": "eliminar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "supprimer"
+  },
+  {
+    "infinitive": "animar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "encourager"
+  },
+  {
+    "infinitive": "prevenir",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "empêcher"
+  },
+  {
+    "infinitive": "modificar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "modifier"
+  },
+  {
+    "infinitive": "analizar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "analyser"
+  },
+  {
+    "infinitive": "persistir",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "persister"
+  },
+  {
+    "infinitive": "nadar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "nager"
+  },
+  {
+    "infinitive": "robar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "voler"
+  },
+  {
+    "infinitive": "soplar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "souffler"
+  },
+  {
+    "infinitive": "publicar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "publier"
+  },
+  {
+    "infinitive": "acechar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "rôder"
+  },
+  {
+    "infinitive": "palpar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "palper"
+  },
+  {
+    "infinitive": "arrimar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "arrimar"
+  },
+  {
+    "infinitive": "agitar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "agiter"
+  },
+  {
+    "infinitive": "ajustar",
+    "count": 9,
+    "perc": 0.0001487480374,
+    "translation": "ajuster"
+  },
+  {
+    "infinitive": "navegar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "parcourir"
+  },
+  {
+    "infinitive": "desistir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "se retirer"
+  },
+  {
+    "infinitive": "parir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "accoucher"
+  },
+  {
+    "infinitive": "añorar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "désirer"
+  },
+  {
+    "infinitive": "acampar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "camper"
+  },
+  {
+    "infinitive": "disfrutar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "jouir"
+  },
+  {
+    "infinitive": "incorporar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "incorporer"
+  },
+  {
+    "infinitive": "agravar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "aggraver"
+  },
+  {
+    "infinitive": "elaborar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "élaborer"
+  },
+  {
+    "infinitive": "alquilar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "louer"
+  },
+  {
+    "infinitive": "revivir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "raviver"
+  },
+  {
+    "infinitive": "bautizar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "baptiser"
+  },
+  {
+    "infinitive": "envenenar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "empoisonner"
+  },
+  {
+    "infinitive": "acentuar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "accentuer"
+  },
+  {
+    "infinitive": "absorber",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "absorber"
+  },
+  {
+    "infinitive": "detestar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "détester"
+  },
+  {
+    "infinitive": "lastimar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "blesser"
+  },
+  {
+    "infinitive": "designar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "désigner"
+  },
+  {
+    "infinitive": "presentir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "présenter"
+  },
+  {
+    "infinitive": "localizar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "localiser"
+  },
+  {
+    "infinitive": "manifestar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "manifester"
+  },
+  {
+    "infinitive": "derivar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "dériver"
+  },
+  {
+    "infinitive": "destacar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "mettre en évidence"
+  },
+  {
+    "infinitive": "estropear",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "gâcher"
+  },
+  {
+    "infinitive": "podrir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "pourriture"
+  },
+  {
+    "infinitive": "acceder",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "accéder"
+  },
+  {
+    "infinitive": "satisfacer",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "satisfaire"
+  },
+  {
+    "infinitive": "empapar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "tremper"
+  },
+  {
+    "infinitive": "atrapar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "attraper"
+  },
+  {
+    "infinitive": "escandalizar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "scandaliser"
+  },
+  {
+    "infinitive": "deshacer",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "annuler"
+  },
+  {
+    "infinitive": "coger",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "attraper"
+  },
+  {
+    "infinitive": "planear",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "planifier"
+  },
+  {
+    "infinitive": "despreciar",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "mépriser"
+  },
+  {
+    "infinitive": "inquirir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "se renseigner"
+  },
+  {
+    "infinitive": "incurrir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "encourir"
+  },
+  {
+    "infinitive": "resumir",
+    "count": 8,
+    "perc": 0.0001322204776,
+    "translation": "résumer"
+  },
+  {
+    "infinitive": "ensanchar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "élargir"
+  },
+  {
+    "infinitive": "desenterrar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "déterrer"
+  },
+  {
+    "infinitive": "exhibir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "exposer"
+  },
+  {
+    "infinitive": "expulsar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "éjecter"
+  },
+  {
+    "infinitive": "entusiasmar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "s'enthousiasmer"
+  },
+  {
+    "infinitive": "consolidar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "consolider"
+  },
+  {
+    "infinitive": "someter",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "soumettre"
+  },
+  {
+    "infinitive": "reaparecer",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "réapparaître"
+  },
+  {
+    "infinitive": "enredar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "enchevêtrer"
+  },
+  {
+    "infinitive": "mejorar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "améliorer"
+  },
+  {
+    "infinitive": "destinar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "réserver"
+  },
+  {
+    "infinitive": "transportar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "transport"
+  },
+  {
+    "infinitive": "posar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "poser"
+  },
+  {
+    "infinitive": "descomponer",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "décomposer"
+  },
+  {
+    "infinitive": "disolver",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "dissoudre"
+  },
+  {
+    "infinitive": "vagar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "errer"
+  },
+  {
+    "infinitive": "suspender",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "suspendre"
+  },
+  {
+    "infinitive": "acusar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "accuser"
+  },
+  {
+    "infinitive": "acumular",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "accumuler"
+  },
+  {
+    "infinitive": "conmover",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "toucher"
+  },
+  {
+    "infinitive": "asimilar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "assimiler"
+  },
+  {
+    "infinitive": "esforzar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "s'efforcer"
+  },
+  {
+    "infinitive": "impulsar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "stimuler"
+  },
+  {
+    "infinitive": "intercambiar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "échanger"
+  },
+  {
+    "infinitive": "sustituir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "remplacer"
+  },
+  {
+    "infinitive": "combinar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "combiner"
+  },
+  {
+    "infinitive": "alterar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "modifier"
+  },
+  {
+    "infinitive": "conceder",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "subvention"
+  },
+  {
+    "infinitive": "derrumbar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "démolir"
+  },
+  {
+    "infinitive": "aprobar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "approuver"
+  },
+  {
+    "infinitive": "enriquecer",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "enrichir"
+  },
+  {
+    "infinitive": "brindar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "fournir"
+  },
+  {
+    "infinitive": "reproducir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "reproduire"
+  },
+  {
+    "infinitive": "estimar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "estimer"
+  },
+  {
+    "infinitive": "multiplicar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "se multiplier"
+  },
+  {
+    "infinitive": "cocinar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "cuisiner"
+  },
+  {
+    "infinitive": "transladar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "transferer"
+  },
+  {
+    "infinitive": "peinar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "peigner"
+  },
+  {
+    "infinitive": "inquietar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "inquieter"
+  },
+  {
+    "infinitive": "reponer",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "reconstituer"
+  },
+  {
+    "infinitive": "callarse",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "se taire"
+  },
+  {
+    "infinitive": "desviar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "détourner"
+  },
+  {
+    "infinitive": "formular",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "formuler"
+  },
+  {
+    "infinitive": "sentirse",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "sentir"
+  },
+  {
+    "infinitive": "integrar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "intégrer"
+  },
+  {
+    "infinitive": "habitar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "habiter"
+  },
+  {
+    "infinitive": "emerger",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "émerger"
+  },
+  {
+    "infinitive": "introducir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "influir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "influence"
+  },
+  {
+    "infinitive": "exhumar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "exhumer"
+  },
+  {
+    "infinitive": "irritar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "irriter"
+  },
+  {
+    "infinitive": "balancear",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "équilibre"
+  },
+  {
+    "infinitive": "afligir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "affliger"
+  },
+  {
+    "infinitive": "ingresar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "inyectar",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "injecter"
+  },
+  {
+    "infinitive": "relucir",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "briller"
+  },
+  {
+    "infinitive": "aprehender",
+    "count": 7,
+    "perc": 0.0001156929179,
+    "translation": "appréhender"
+  },
+  {
+    "infinitive": "incendiar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "mettre le feu"
+  },
+  {
+    "infinitive": "fundir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "fondre"
+  },
+  {
+    "infinitive": "prevalecer",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "prévaloir"
+  },
+  {
+    "infinitive": "humedecer",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "humidifier"
+  },
+  {
+    "infinitive": "aliviar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "atténuer"
+  },
+  {
+    "infinitive": "bordar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "broder"
+  },
+  {
+    "infinitive": "felicitar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "féliciter"
+  },
+  {
+    "infinitive": "torcer",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "torsion"
+  },
+  {
+    "infinitive": "convertirse",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "devenir"
+  },
+  {
+    "infinitive": "roncar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "ronfler"
+  },
+  {
+    "infinitive": "revolver",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "revolver"
+  },
+  {
+    "infinitive": "deambular",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "errer"
+  },
+  {
+    "infinitive": "tolerar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "tolérer"
+  },
+  {
+    "infinitive": "perdurar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "endurer"
+  },
+  {
+    "infinitive": "estorbar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "se mettre en travers du chemin"
+  },
+  {
+    "infinitive": "emplear",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "utiliser"
+  },
+  {
+    "infinitive": "reprimir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "réprimer"
+  },
+  {
+    "infinitive": "chupar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "aspirer"
+  },
+  {
+    "infinitive": "irse",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "operar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "opérer"
+  },
+  {
+    "infinitive": "aplacar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "apaiser"
+  },
+  {
+    "infinitive": "preservar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "préserver"
+  },
+  {
+    "infinitive": "sobrellevar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "faire face"
+  },
+  {
+    "infinitive": "enrollar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "enrouler"
+  },
+  {
+    "infinitive": "fatigar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "fatiguer"
+  },
+  {
+    "infinitive": "infundir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "infuser"
+  },
+  {
+    "infinitive": "comprometer",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "s'engager"
+  },
+  {
+    "infinitive": "mediar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "médiatiser"
+  },
+  {
+    "infinitive": "clausurar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "fermer"
+  },
+  {
+    "infinitive": "asignar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "attribuer"
+  },
+  {
+    "infinitive": "proporcionar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "fournir"
+  },
+  {
+    "infinitive": "coordinar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "coordonner"
+  },
+  {
+    "infinitive": "tranquilizar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "rassurer"
+  },
+  {
+    "infinitive": "dispersar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "disperser"
+  },
+  {
+    "infinitive": "impartir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "transmettre"
+  },
+  {
+    "infinitive": "alegar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "plaider"
+  },
+  {
+    "infinitive": "reiterar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "réitérer"
+  },
+  {
+    "infinitive": "sofocar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "étouffer"
+  },
+  {
+    "infinitive": "mentir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "mentir"
+  },
+  {
+    "infinitive": "educar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "éduquer"
+  },
+  {
+    "infinitive": "ocasionar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "causer"
+  },
+  {
+    "infinitive": "proseguir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "continuer"
+  },
+  {
+    "infinitive": "deparar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "donner"
+  },
+  {
+    "infinitive": "zarpar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "naviguer"
+  },
+  {
+    "infinitive": "anhelar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "aspirer à"
+  },
+  {
+    "infinitive": "embarcar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "embarquer"
+  },
+  {
+    "infinitive": "disminuir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "diminuer"
+  },
+  {
+    "infinitive": "clasificar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "trier"
+  },
+  {
+    "infinitive": "verificar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "vérifier"
+  },
+  {
+    "infinitive": "instar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "presser"
+  },
+  {
+    "infinitive": "convidar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "inviter"
+  },
+  {
+    "infinitive": "reemplazar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "remplacer"
+  },
+  {
+    "infinitive": "rememorar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "se souvenir"
+  },
+  {
+    "infinitive": "reinar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "régner"
+  },
+  {
+    "infinitive": "indagar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "se renseigner"
+  },
+  {
+    "infinitive": "omitir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "sauter"
+  },
+  {
+    "infinitive": "enumerar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "lister"
+  },
+  {
+    "infinitive": "abolir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "abolir"
+  },
+  {
+    "infinitive": "conjeturar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "deviner"
+  },
+  {
+    "infinitive": "aludir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "faire allusion"
+  },
+  {
+    "infinitive": "librarse",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "descendre"
+  },
+  {
+    "infinitive": "arrollar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "écraser"
+  },
+  {
+    "infinitive": "latir",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "battre"
+  },
+  {
+    "infinitive": "disculpar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "pardonner"
+  },
+  {
+    "infinitive": "vacunar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "vacciner"
+  },
+  {
+    "infinitive": "sangrar",
+    "count": 6,
+    "perc": 0.00009916535823,
+    "translation": "saigner"
+  },
+  {
+    "infinitive": "desentrañar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "démêler"
+  },
+  {
+    "infinitive": "sanar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "guérir"
+  },
+  {
+    "infinitive": "contraer",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "contrat"
+  },
+  {
+    "infinitive": "colaborar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "collaborer"
+  },
+  {
+    "infinitive": "aplazar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "reporter"
+  },
+  {
+    "infinitive": "heredar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "hériter"
+  },
+  {
+    "infinitive": "trazar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "tracer"
+  },
+  {
+    "infinitive": "culminar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "culminer"
+  },
+  {
+    "infinitive": "complicar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "compliquer"
+  },
+  {
+    "infinitive": "resignar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "démissionner"
+  },
+  {
+    "infinitive": "encerrarse",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "fermer"
+  },
+  {
+    "infinitive": "prosperar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "prospérer"
+  },
+  {
+    "infinitive": "excitar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "exciter"
+  },
+  {
+    "infinitive": "levantarse",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "se lever"
+  },
+  {
+    "infinitive": "desarmar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "démonter"
+  },
+  {
+    "infinitive": "adoptar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "adopter"
+  },
+  {
+    "infinitive": "incorporarse",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "aller à"
+  },
+  {
+    "infinitive": "sollozar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "sanglot"
+  },
+  {
+    "infinitive": "conquistar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "conquérir"
+  },
+  {
+    "infinitive": "imprimir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "imprimer"
+  },
+  {
+    "infinitive": "recomendar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "recommander"
+  },
+  {
+    "infinitive": "apoderar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "autoriser"
+  },
+  {
+    "infinitive": "batir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "battre"
+  },
+  {
+    "infinitive": "humanizar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "humaniser"
+  },
+  {
+    "infinitive": "revolcar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "se vautrer"
+  },
+  {
+    "infinitive": "prever",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "prévoir"
+  },
+  {
+    "infinitive": "degenerar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "dégénérer"
+  },
+  {
+    "infinitive": "llamarse",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "s'appeller"
+  },
+  {
+    "infinitive": "grabar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "enregistrer"
+  },
+  {
+    "infinitive": "consumir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "consommer"
+  },
+  {
+    "infinitive": "ilustrar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "illustrer"
+  },
+  {
+    "infinitive": "preguntarse",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "se demander"
+  },
+  {
+    "infinitive": "desplazar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "déplacer"
+  },
+  {
+    "infinitive": "presumir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "se vanter"
+  },
+  {
+    "infinitive": "picar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "hacher"
+  },
+  {
+    "infinitive": "redactar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "écrire"
+  },
+  {
+    "infinitive": "arreciar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "arreciar"
+  },
+  {
+    "infinitive": "autorizar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "autoriser"
+  },
+  {
+    "infinitive": "inducir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "induire"
+  },
+  {
+    "infinitive": "empobrecer",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "appauvrir"
+  },
+  {
+    "infinitive": "investigar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "recherche"
+  },
+  {
+    "infinitive": "renovar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "renouveler"
+  },
+  {
+    "infinitive": "entablar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "entrer"
+  },
+  {
+    "infinitive": "gastar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "dépenser"
+  },
+  {
+    "infinitive": "improvisar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "improviser"
+  },
+  {
+    "infinitive": "dilatar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "dilater"
+  },
+  {
+    "infinitive": "resoplar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "renifler"
+  },
+  {
+    "infinitive": "realizar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "faire"
+  },
+  {
+    "infinitive": "releer",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "relire"
+  },
+  {
+    "infinitive": "vociferar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "vociférer"
+  },
+  {
+    "infinitive": "excluir",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "exclure"
+  },
+  {
+    "infinitive": "presuponer",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "présupposer"
+  },
+  {
+    "infinitive": "exagerar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "exagérer"
+  },
+  {
+    "infinitive": "situar",
+    "count": 5,
+    "perc": 0.00008263779853,
+    "translation": "localiser"
+  }
+]
