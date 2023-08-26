@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="temps.css">
+</head>
+<body>
+    <div class="title"><h1>Temps selectionnés</h1></div>
+    <div class="blocCentral">
+       <form id="temps" action="/tense" method="GET" onsubmit="return validateForm()">
+        <div class="presentI" class="temps">
+            <input type="checkbox" class="temps" id="presentI" name="presentI">
+            <label for="presentI">Présent de l'indicatif</label>
+        </div>
+
+        <div class="passeS" class="temps">
+            <input type="checkbox" class="temps" id="passeS" name="passeS">
+            <label for="passeS">Passé simple</label>
+        </div>
+
+        <div class="imparfait" class="temps">
+            <input type="checkbox" class="temps" id="imparfait" name="imparfait">
+            <label for="imparfait">Imparfait</label>
+        </div>
+        <div class="presentP" class="temps">
+            <input type="checkbox" class="temps" id="presentP" name="presentP">
+            <label for="presentP">Présent progressif</label>
+        </div>
+
+        <div class="passeP" class="temps">
+            <input type="checkbox" class="temps" id="passeP" name="passeP">
+            <label for="passeP">Passé composé</label>
+        </div>
+        
+        <div class="subjonctifP" class="temps">
+            <input type="checkbox" class="temps" id="subjonctifP" name="subjonctifP">
+            <label for="subjonctifP">Subjonctif présent</label>
+        </div>
+
+        <div class="futurI" class="temps">
+            <input type="checkbox" class="temps" id="futurI" name="futurI">
+            <label for="futurI">Futur de l'indicatif</label>
+        </div>
+
+        <div class="imperatif" class="temps">
+            <input type="checkbox" class="temps" id="imperatif" name="imperatif">
+            <label for="imperatif">Imperatif</label>
+        </div>
+
+        <div class="subjonctifI" class="temps">
+            <input type="checkbox" class="temps" id="subjonctifI" name="subjonctifI">
+            <label for="subjonctifI">Subjonctif imparfait</label>
+        </div>
+
+        <div class="conditionnel" class="temps">
+            <input type="checkbox" class="temps" id="conditionnel" name="conditionnel">
+            <label for="conditionnel">Conditionnel</label>
+        </div>        
+       </form>
+    </div>    
+    <button type="submit" form="temps">Valider</button>
+    <script>
+        function validateForm() {
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            var checkedCount = 0;
+
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].checked) {
+                    checkedCount++;
+                }
+            }
+
+            if (checkedCount === 0) {
+                alert("Slectionnez au moins une option");
+                return false; // Prevent form submission
+            }
+
+            return true; // Allow form submission
+        }
+    </script>
+</body>
+</html>
